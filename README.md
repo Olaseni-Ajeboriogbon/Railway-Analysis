@@ -1,4 +1,5 @@
 # UK Railway Performance and Ticket Sales Analysis
+![Project Dashboard](Overview_rail.png)
 
 ## Project Overview
 
