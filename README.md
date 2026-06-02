@@ -19,24 +19,23 @@ Operationally, weather conditions and signal failures emerged as the leading cau
 enhance customer experience.
 
 ## Key Findings
-1. Revenue and Sales Performance
+
+**1. Revenue and Sales Performance :**
 Total revenue generated reached £742K.
 More than 32,000 tickets were sold across the network.
 Average revenue per ticket stood at £23.44.
 High-volume routes contributed significantly to overall revenue performance.
 Premium-priced routes generated substantial revenue despite lower ticket volumes compared to commuter routes.
 
-2. Passenger Travel Patterns
+**2. Passenger Travel Patterns :**
 Ticket purchases show clear peak periods:
 Early morning (around 6 AM – 8 AM)
 Late afternoon to evening (around 4 PM – 7 PM)
 These patterns suggest strong commuter demand and business travel activity.
 Midday travel volumes were comparatively lower, indicating reduced demand outside peak hours.
 
-3. Most Active Departure Stations
-
+**3. Most Active Departure Stations :**
 The busiest departure stations include:
-
 Manchester Piccadilly
 London Euston
 Liverpool Lime Street
@@ -46,10 +45,8 @@ London St Pancras
 
 These stations act as major transportation hubs and account for a significant share of total trips across the network.
 
-4. Top Performing Routes
-
+**4. Top Performing Routes :**
 Several routes consistently generated high ticket volumes and revenue:
-
 Liverpool Lime Street → London Euston
 Liverpool Lime Street → Manchester Piccadilly
 Birmingham New Street → Manchester Piccadilly
@@ -58,8 +55,7 @@ London Euston → Birmingham New Street
 
 The Liverpool–London corridor appears particularly strong, contributing both high passenger numbers and substantial revenue.
 
-5. Operational Performance and Delays
-
+**5. Operational Performance and Delays :**
 Analysis of delay causes revealed that the primary operational challenges were:
 
 Weather-related disruptions
@@ -70,15 +66,15 @@ Traffic congestion
 
 Weather and signal failures accounted for the highest proportion of delays, indicating that infrastructure resilience and maintenance improvements could have a meaningful impact on service reliability.
 
-6. Customer Refund Activity
-
+**6. Customer Refund Activity :**
 Refund data indicates that service disruptions directly influence revenue retention.
 
-Key observations:
+## Key observations:
 
 Routes with higher delay frequencies experienced increased refund volumes.
 Certain high-traffic routes generated both the highest revenue and the highest refund values.
 Improving operational reliability presents an opportunity to reduce refund costs and improve profitability.
+
 Business Insights
 Demand Management
 
